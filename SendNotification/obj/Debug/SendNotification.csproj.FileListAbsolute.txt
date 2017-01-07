@@ -1,0 +1,12 @@
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\bin\Debug\SendNotification.exe.config
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\bin\Debug\SendNotification.exe
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\bin\Debug\SendNotification.pdb
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\bin\Debug\Microsoft.Azure.NotificationHubs.dll
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\bin\Debug\Newtonsoft.Json.dll
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\bin\Debug\Microsoft.Azure.NotificationHubs.xml
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\bin\Debug\Newtonsoft.Json.xml
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\obj\Debug\SendNotification.csprojResolveAssemblyReference.cache
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\obj\Debug\SendNotification.exe
+c:\users\onurcelikeng\documents\visual studio 2015\Projects\SendNotification\SendNotification\obj\Debug\SendNotification.pdb
